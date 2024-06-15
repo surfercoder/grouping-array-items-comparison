@@ -1,0 +1,12 @@
+{
+  "name": "grouping-array-items-comparison",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["groupBy", "grouping", "array", "object"],
+  "author": "Agustin Cassani",
+  "license": "MIT",
+  "description": "Compare the old and the new ways of grouping array items by a given property."
+}
